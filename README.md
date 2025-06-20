@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio – Sourabh Singh
+# 📊 HR Analytics Dashboard (Attrition Insights)
 
 Hi! I'm Sourabh Singh, an aspiring Data Analyst building hands-on projects using Excel, Power BI, and real-world datasets.
 
